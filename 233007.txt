@@ -1,0 +1,7 @@
+git checkout branchname
+git add -all
+git commit -m "Commit message"
+git push
+
+git merge 7-count-tasks-per-category
+git push -u origin master
